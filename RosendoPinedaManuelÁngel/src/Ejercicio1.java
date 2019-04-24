@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Cambio del alumno 1 (Manuel Ángel Rosendo Pineda 1) perita
+//Cambio del alumno 1 (Manuel Ángel Rosendo Pineda 1) peritads
 
 public class Ejercicio1 {
 		
