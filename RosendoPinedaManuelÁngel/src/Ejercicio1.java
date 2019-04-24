@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 //Cambio del alumno 2 (Manuel Ángel Rosendo Pineda 2) 
-<<<<<<< HEAD
 //Cambio del alumno 1 (Manuel Ángel Rosendo Pineda 1) 
-=======
->>>>>>> branch 'master' of https://github.com/manu13xd/Practica.git
+
 
 public class Ejercicio1 {
 		
